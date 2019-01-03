@@ -1,9 +1,3 @@
-<style>
-  img {
-    max-height: 100vh;
-  }
-</style>
-
 # Framed App
 
 This is a companion app to the Framed store I created for my capstone web programming class which can be found at [framed.noahscholfield.com](https://framed.noahscholfield.com). You can also see the repository for the store [here](https://github.com/njscholfield/framed-website).
@@ -14,14 +8,14 @@ This app was built using [Flutter](https://flutter.io/) which is a framework fro
 
 ### Product List
 ###### The first page is a list of the products for sale on the store.
-![List of Items Screenshot](./screenshots/Items.png)
+<img alt="List of Items Screenshot" src="./screenshots/Items.png" height="700px">
 
 ---
 ### Item Info
 ###### Clicking on one of the items brings you to a detail page.
-![Detail Page Screenshot](./screenshots/Details.png)
+<img alt="Item Info Screenshot" src="./screenshots/Details.png" height="700px">
 
 ---
 ### Larger Screens
 ###### On larger screens you can see both the list of items and an item's details at the same time.
-![iPad View Screenshot](./screenshots/iPad.png)
+<img alt="iPad View Screenshot" src="./screenshots/iPad.png" height="400px">
