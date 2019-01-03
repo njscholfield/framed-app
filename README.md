@@ -1,16 +1,27 @@
-# Framed
+<style>
+  img {
+    max-height: 100vh;
+  }
+</style>
 
-A new Flutter project.
+# Framed App
 
-## Getting Started
+This is a companion app to the Framed store I created for my capstone web programming class which can be found at [framed.noahscholfield.com](https://framed.noahscholfield.com). You can also see the repository for the store [here](https://github.com/njscholfield/framed-website).
 
-This project is a starting point for a Flutter application.
+This app was built using [Flutter](https://flutter.io/) which is a framework from Google that makes it easy to develop apps for both iOS and Android using the same code. For my first Flutter app I figured I might as well add onto the store I already had.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+### Product List
+###### The first page is a list of the products for sale on the store.
+![List of Items Screenshot](./screenshots/Items.png)
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+---
+### Item Info
+###### Clicking on one of the items brings you to a detail page.
+![Detail Page Screenshot](./screenshots/Details.png)
+
+---
+### Larger Screens
+###### On larger screens you can see both the list of items and an item's details at the same time.
+![iPad View Screenshot](./screenshots/iPad.png)
